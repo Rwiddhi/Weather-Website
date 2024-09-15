@@ -1,1 +1,4 @@
-# Weather-Website
+# Weather Analyzer
+Weather Analyzer is a responsive web application that allows users to fetch and view real-time weather data for any city worldwide. Built using HTML, CSS, and JavaScript, the app integrates with the WeatherAPI to provide up-to-date information such as temperature, humidity, wind speed, and general weather conditions. The user-friendly interface ensures a smooth experience, while robust error handling offers clear feedback in case of invalid inputs or network issues.
+
+The app is optimized for performance and mobile responsiveness, leveraging async/await for seamless data fetching and dynamic DOM updates. Whether you're checking the weather on a desktop or mobile device, the app adapts to various screen sizes, providing a consistent and engaging experience across platforms.
